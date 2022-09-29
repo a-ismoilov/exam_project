@@ -1,2 +1,2 @@
-# exam_project
-My last exam project in Najot Ta'lim
+# Exam_project
+``My exam project in Najot Ta'lim``
